@@ -1,0 +1,117 @@
+2020-06-22T02:21:17+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:21:20+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:21:23+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:22:51+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:25:51+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:25:56+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:25:59+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:26:24+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:26:53+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:27:35+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:28:35+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:28:54+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
+2020-06-22T02:29:17+00:00 CRITICAL Uncaught Exception: Almacenamiento de datos no válido. in /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php:107
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes.php(101): WC_Data_Store::load('admin-note')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Deactivate_Plugin.php(59): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(58): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /Applications/XAMPP/xamppfiles/htdocs en /Applications/XAMPP/xamppfiles/htdocs/tnt/wp-content/plugins/woocommerce/includes/class-wc-data-store.php en la línea 107
+
