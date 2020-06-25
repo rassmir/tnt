@@ -214,6 +214,6 @@ background: #dcdcdc;
         </div>
 
     </div>
-<? endwhile; ?>
+<?php endwhile; ?>
 
 <?php get_footer(); ?>

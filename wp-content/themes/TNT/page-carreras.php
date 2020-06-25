@@ -313,6 +313,6 @@
 
 
 
-<? endwhile; ?>
+<?php endwhile; ?>
 
 <?php get_footer(); ?>

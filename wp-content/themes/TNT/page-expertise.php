@@ -329,7 +329,7 @@
             </div>
         </div>
     </div>
-    <? endwhile; ?>
+    <?php endwhile; ?>
 <?php get_footer(); ?>
 <!--<script type='text/javascript'defer src='https://unpkg.com/@barba/core?ver=5.4.1.1590595645'></script>-->
 <!--<script src="--><?php //echo get_template_directory_uri().'/js/libs/slick.min.js'?><!--"></script>-->

@@ -53,4 +53,3 @@ add_action('wp_enqueue_scripts','tnt_scripts_styles');
 
 //Admistrar direccion footer
 require get_template_directory().'/inc/opciones.php';
-
