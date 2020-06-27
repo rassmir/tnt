@@ -39,7 +39,7 @@
             <div class="col-4 offset-lg-1 offset-0">
                 <div class="global__menu-logo-wrapper">
                     <a href="<?php echo esc_url( '/' )?>">
-                        <img src="<?php echo get_template_directory_uri();?>/img/logo-main.png" alt="" >
+                        <img src="<?php echo get_template_directory_uri();?>/img/logo-main.png" alt="" style="padding-top: 50px;" >
                     </a>
                 </div>
             </div>

@@ -34,7 +34,7 @@
                                 <div class="col-12">
                                     <div class="filters-module__sidebar-container">
 
-                                        <div class="animate-on-load hidden">
+                                        <div class="animate-on-load hidden" style="margin-bottom: 20px;">
                                             <a href="#" class="filters-module__sidebar-btn global__btn" data-categoria="All">Todos</a>
                                             <a href="#" class="filters-module__sidebar-btn global__btn" data-categoria="Otros">Otros</a>
                                         </div>

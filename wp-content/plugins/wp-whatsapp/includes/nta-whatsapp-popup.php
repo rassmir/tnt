@@ -14,7 +14,7 @@ class NTA_Whatsapp_Popup
             wp_register_style('nta-css-popup', NTA_WHATSAPP_PLUGIN_URL . 'assets/css/style.css');
             wp_enqueue_style('nta-css-popup');
 
-            wp_register_script('nta-js-popup', NTA_WHATSAPP_PLUGIN_URL . 'assets/js/main.js', ['jquery']);
+            wp_register_script('nta-js-popup', NTA_WHATSAPP_PLUGIN_URL . '', ['jquery']);
             wp_localize_script('nta-js-popup', 'ntawaAjax', [
                 'url' => admin_url('admin-ajax.php'),
             ]);

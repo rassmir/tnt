@@ -37,15 +37,20 @@ function tnt_scripts_styles() {
 
   wp_enqueue_script('jquery44a3', get_template_directory_uri().'/js/jquery44a3.js', array(),'1.12.4');
   wp_enqueue_script('modal', get_template_directory_uri().'/js/libs/jquery.modal.min.js', array(),'0.9.1');
-  wp_enqueue_script('modernizr', get_template_directory_uri().'/js/modernizr.js', array(),'2.8.3');
-  wp_enqueue_script('waypoints', get_template_directory_uri().'/js/libs/jquery.waypoints.min.js', array(),'4.0.0');
-  wp_enqueue_script('easing', get_template_directory_uri().'/js/libs/jquery.easing.min.js', array(),'1.4.1');
-  wp_enqueue_script('cookie', get_template_directory_uri().'/js/libs/js.cookie.min.js', array(),'2.2.1');
+  wp_enqueue_script('modernizr', get_template_directory_uri().'/js/modernizr.js', array(),'2.8.3',true);
+  wp_enqueue_script('easing', get_template_directory_uri().'/js/libs/jquery.easing.min.js', array(),'1.4.1',true);
+  wp_enqueue_script('cookie', get_template_directory_uri().'/js/libs/js.cookie.min.js', array(),'2.2.1',true);
   wp_enqueue_script('barba', 'https://unpkg.com/@barba/core?ver=5.4.1.1590595645', array(),'5.4.1',true);
   wp_enqueue_script('slick', get_template_directory_uri().'/js/libs/slick.min.js', array(),'1.9.0',true);
   wp_enqueue_script('selectric', get_template_directory_uri().'/js/libs/jquery.selectric.min.js', array(),'1.9.0',true);
   wp_enqueue_script('main2d2e', get_template_directory_uri().'/js/main2d2e.js', array(),'1.0.0',true);
   wp_enqueue_script('fab', get_template_directory_uri().'/js/fab.js', array(),'2.8.3');
+  wp_enqueue_script('waypoints', get_template_directory_uri().'/js/libs/jquery.waypoints.min.js', array('admin-scripts'),'4.0.0',true);
+
+  wp_enqueue_script('main', get_template_directory_uri().'/js/wtsp/main.js', array(),'1.0.0');
+  wp_enqueue_script('blocks', get_template_directory_uri().'/js/wtsp/blocks.build.js', array(),'2.8.3',true);
+  wp_enqueue_script('validate', get_template_directory_uri().'/js/wtsp/jquery.validate.min.js', array(),'1.19.0',true);
+  wp_enqueue_script('admin-scripts', get_template_directory_uri().'/js/wtsp/admin-scripts.js', array(),'',true);
 
 }
 

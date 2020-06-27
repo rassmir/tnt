@@ -65,8 +65,8 @@
                     </div>
 
                 </div>
-                <div class="row" style="justify-content: center; margin-top: 20px;">
-                    <div class="col-lg-5 col-md-6 col-10 offset-md-0 offset-1">
+                <div class="row" style="margin-top: 20px;">
+                    <div class="col-lg-5 col-md-6 col-10 offset-lg-1 offset-1 offset-md-0">
                         <div class="animate-on-load hidden">
                             <div class="team__info-option">
                                 <h2 class="team__info-option-title global__subtitle"><?php the_field('titulo_mision'); ?></h2>
@@ -119,7 +119,7 @@ background: #dcdcdc;
             <div class="container">
                 <div class="row">
                     <div class="col-8 offset-2">
-                        <div class="team__list-title global__subtitle global__split-words" style="margin-bottom: 50px;">
+                        <div class="team__list-title global__subtitle global__split-words" style="margin-bottom: 20px; margin-top: 20px;">
                             Socios co-fundadores
                         </div>
                     </div>

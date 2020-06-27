@@ -3,7 +3,7 @@
 <div class="global__wrapper" data-barba="container" data-barba-namespace="inicio">
     <div class="home__intro-cover d-flex" data-nmb data-header-trigger>
         <div class="home__intro-background hidden">
-            <div style="position: fixed; z-index: -99; width: 100%; height: 100%;">
+            <div style="position: fixed; z-index: -99; width: 100%; height: 100%;" class="videoOnMobile">
                 <video preload="" tabindex="-1" style="" src="<?php the_field('video_inicio'); ?>" height="100%" autoplay muted loop></video>
 
                 <svg width="442" height="101" viewBox="0 0 442 101" fill="none" xmlns="http://www.w3.org/2000/svg" class="home__intro-background-outline hidden">

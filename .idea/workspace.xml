@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="152c20ab-d742-4d13-bb6d-df4a6837144e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-whatsapp/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-whatsapp/dist/blocks.build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-whatsapp/gutenberg/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/wp-whatsapp/gutenberg/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-whatsapp/includes/nta-whatsapp-popup.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/wp-whatsapp/includes/nta-whatsapp-popup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-whatsapp/scripts/js/admin-scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-whatsapp/scripts/js/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/js/jquery44a3.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/js/jquery44a3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/js/libs/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/js/libs/jquery.waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-carreras.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-carreras.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-equipo.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-equipo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-expertise.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-expertise.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-inicio.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-inicio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-proyectos.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-proyectos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-services.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-services.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wp-content/themes/TNT" />
+  </component>
+  <component name="ProjectId" id="1cTUGcsLa8Y6SufBN41pHouu6Kx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/TNT/js/wtsp" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/TNT/js/wtsp" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/TNT" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/TNT/css" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/TNT/js/libs" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/TNT/img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="152c20ab-d742-4d13-bb6d-df4a6837144e" name="Default Changelist" comment="" />
+      <created>1590551981606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590551981606</updated>
+      <workItem from="1590551984501" duration="7000" />
+      <workItem from="1590556124319" duration="1448000" />
+      <workItem from="1590595988446" duration="1575000" />
+      <workItem from="1590633457274" duration="4486000" />
+      <workItem from="1590738445898" duration="13434000" />
+      <workItem from="1591593732551" duration="129000" />
+      <workItem from="1591757473095" duration="32517000" />
+      <workItem from="1591972907063" duration="234000" />
+      <workItem from="1591987194780" duration="1426000" />
+      <workItem from="1591992368150" duration="24765000" />
+      <workItem from="1592507032890" duration="6747000" />
+      <workItem from="1592864955086" duration="10990000" />
+      <workItem from="1593025666092" duration="2328000" />
+      <workItem from="1593063059374" duration="871000" />
+      <workItem from="1593126136210" duration="369000" />
+      <workItem from="1593159298311" duration="796000" />
+      <workItem from="1593206917132" duration="13699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="666" y="457" key="#WordPress" timestamp="1590556142215">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="666" y="457" key="#WordPress/0.0.1680.1050@0.0.1680.1050" timestamp="1590556142215" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591806901667">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591806901667" />
+    <state x="557" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593207638986">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="557" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1593207638986" />
+    <state x="417" y="23" width="846" height="966" key="CommitChangelistDialog2" timestamp="1593229161887">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="417" y="23" width="846" height="966" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1593229161887" />
+    <state x="659" y="451" key="NewPhpFileDialog" timestamp="1592013740155">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="659" y="451" key="NewPhpFileDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1592013740155" />
+    <state x="542" y="264" width="657" height="580" key="find.popup" timestamp="1593214528842">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="542" y="264" width="657" height="580" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593214528842" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1590596921239">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590596921239" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$</wordpressPath>
+  </component>
+</project>
