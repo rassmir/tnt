@@ -20,7 +20,7 @@
         </div>
 
         <div class="global__intro-arrow animate-on-load hidden">
-            <img src="source/img/arrow-black.svg" alt="" class="global__animate-intro-arrow global__arrow down" data-nm-invert>
+            <img src="<?php echo get_template_directory_uri();?>/img/arrow-black.svg" alt="" class="global__animate-intro-arrow global__arrow down" data-nm-invert>
         </div>
     </div>
 

@@ -196,7 +196,7 @@
                 <div class="col-lg-6 col-md-5 col-sm-12 offset-xl-0 offset-md-1 offset-sm-0">
                     <div class="home__anticrisis-service-info">
 
-                        <iframe width="560" height="315" src="<?php the_field('url_proyectos'); ?>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe style="width: 100%;margin-top: 20px;" width="560" height="315" src="<?php the_field('url_proyectos'); ?>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
