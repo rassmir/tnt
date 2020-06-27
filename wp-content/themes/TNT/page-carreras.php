@@ -280,26 +280,6 @@
                                         <?php endwhile; ?>
                                         <?php endif; ?>
 
-
-                                        <div class="col-12 col-md-6 animate-on-load hidden grow">
-                                            <a href="../vacante/practicante-community-manager/index.html" class="global__career-module green" data-categoria="Mercadotecnia y Comunicación" data-color="#000" data-nmb>
-                                                <div class="global__career-module-label">
-                                                    Buscamos
-                                                </div>
-
-                                                <div class="global__career-module-title">
-                                                    Practicante Community Manager                      </div>
-
-                                                <div class="global__career-module-type">
-                        <span class="global__career-module-type-text">
-                          Full Time                        </span>
-
-                                                    <span class="global__career-module-type-link">
-                          Soy la persona indicada <img src="<?php echo get_template_directory_uri();?>/img/arrow-white.svg" alt="" class="global__arrow">
-                        </span>
-                                                </div>
-                                            </a>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
