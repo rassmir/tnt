@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="152c20ab-d742-4d13-bb6d-df4a6837144e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom1.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/functions.php" afterDir="false" />
@@ -94,7 +95,7 @@
       <workItem from="1593063059374" duration="871000" />
       <workItem from="1593126136210" duration="369000" />
       <workItem from="1593159298311" duration="796000" />
-      <workItem from="1593206917132" duration="16889000" />
+      <workItem from="1593206917132" duration="17240000" />
     </task>
     <servers />
   </component>

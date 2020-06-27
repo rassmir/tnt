@@ -548,9 +548,9 @@ function headerScroll() {
       scroll = $(window).scrollTop();
 
   if(scroll > headerWrapper.innerHeight()) {
-    headerWrapper.addClass("").removeClass("is-visible transition");
+    headerWrapper.addClass("fixed").removeClass("is-visible transition");
   } else {
-    headerWrapper.removeClass("").addClass("transition");
+    headerWrapper.removeClass("fixed").addClass("transition");
   }
 
   if(scroll > lastScroll) {
