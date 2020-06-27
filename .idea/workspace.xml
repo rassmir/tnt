@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="152c20ab-d742-4d13-bb6d-df4a6837144e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom1.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/functions.php" afterDir="false" />
@@ -10,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/js/jquery44a3.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/js/jquery44a3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/js/libs/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/js/libs/jquery.waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/js/main2d2e.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/js/main2d2e.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-carreras.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-carreras.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-equipo.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-equipo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-expertise.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-expertise.php" afterDir="false" />
@@ -94,7 +94,7 @@
       <workItem from="1593063059374" duration="871000" />
       <workItem from="1593126136210" duration="369000" />
       <workItem from="1593159298311" duration="796000" />
-      <workItem from="1593206917132" duration="16628000" />
+      <workItem from="1593206917132" duration="16889000" />
     </task>
     <servers />
   </component>
