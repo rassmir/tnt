@@ -5,12 +5,13 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom1.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/css/custom1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/inc/opciones.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/inc/opciones.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/js/jquery44a3.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/js/jquery44a3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/js/libs/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/js/libs/jquery.waypoints.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/js/main2d2e.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/js/main2d2e.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-carreras.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-carreras.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-equipo.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-equipo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/TNT/page-expertise.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/TNT/page-expertise.php" afterDir="false" />
@@ -46,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/TNT/js/wtsp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -95,7 +96,8 @@
       <workItem from="1593063059374" duration="871000" />
       <workItem from="1593126136210" duration="369000" />
       <workItem from="1593159298311" duration="796000" />
-      <workItem from="1593206917132" duration="17240000" />
+      <workItem from="1593206917132" duration="17809000" />
+      <workItem from="1594067873457" duration="2754000" />
     </task>
     <servers />
   </component>

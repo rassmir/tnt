@@ -89,11 +89,13 @@
                 $pericia_filtro_cate1=$periciaGrupo['pericia_filtro_categoria_1'];
                 $pericia_filtro_cate2=$periciaGrupo['pericia_filtro_categoria_2'];
                 $pericia_filtro_cate3=$periciaGrupo['pericia_filtro_categoria_3'];
+                $pericia_filtro_boton1=$periciaGrupo['url_me_interesa_filtro1'];
 
                 $pericia_filtro_titulo2=$periciaGrupo['pericia_filtro_titulo2'];
                 $pericia_filtro2_cate1=$periciaGrupo['pericia_filtro2_categoria_1'];
                 $pericia_filtro2_cate2=$periciaGrupo['pericia_filtro2_categoria_2'];
                 $pericia_filtro2_cate3=$periciaGrupo['pericia_filtro2_categoria_3'];
+                $pericia_filtro_boton2=$periciaGrupo['url_me_interesa_filtro2'];
                 ?>
                 <?php if( have_rows('pericia_nuestros_servicios') ) :
                     while( have_rows('pericia_nuestros_servicios') ): the_row(); ?>
@@ -219,7 +221,7 @@
                             </div>
 
                             <div class="animate-on-load">
-                                <a href="#/" class="global__btn">
+                                <a href="<?php echo $pericia_filtro_boton1; ?>" class="global__btn">
                                     <span class="global__btn-label">Me interesa</span>
                                 </a>
                             </div>
@@ -318,7 +320,7 @@
                                 </div>
                             </div>
                             <div class="animate-on-load">
-                                <a href="#/" class="global__btn">
+                                <a href="<?php echo $pericia_filtro_boton2; ?>" class="global__btn">
                                     <span class="global__btn-label">Me interesa</span>
                                 </a>
                             </div>

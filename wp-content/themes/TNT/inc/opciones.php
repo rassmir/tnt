@@ -17,6 +17,7 @@
 		register_setting('animo_opciones_grupo', 'twitter');
 		register_setting('animo_opciones_grupo', 'instagram');
 		register_setting('animo_opciones_grupo', 'youtube');
+		register_setting('animo_opciones_grupo', 'suscribes');
 	}
 	function tnt_opciones(){
 		?>
@@ -27,6 +28,10 @@
 					<br>
 				 <h2>TNT Ajustes</h2>
 					<table class="form-table">
+                        <tr valign="top">
+                            <th scope="row">Texto Subscribete</th>
+                            <td><input style="width: 100%;" type="text" name="suscribes" value="<?php echo get_option('suscribes'); ?>"></td>
+                        </tr>
 						<tr valign="top">
 							<th scope="row">Whatsapp</th>
 							<td><input style="width: 100%;" type="text" name="whatsapp" value="<?php echo get_option('whatsapp'); ?>"></td>

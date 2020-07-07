@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-xl-4 col-lg-5 col-10 offset-1 global__footer-left-column">
                 <div class="global__footer-title global__subtitle global__split-words">
-                    ¿Que tal <br> si te subscribes?
+                    ¿Que tal <br> si te suscribes?
                 </div>
 
                 <div class="global__footer-separator global__separator animate-on-load hidden"></div>
@@ -14,7 +14,7 @@
                     </div>
 
                     <div class="global__footer-newsletter-description">
-                        <strong>Suscríbete</strong>  a nuestro Boletín y recibe información valiosa que ayudará en tus estrategias y posicionamiento.
+                        <strong>Suscríbete</strong> <?php echo esc_html( get_option('suscribes')); ?>
                     </div>
 
                     <form action="#" class="global__footer-form">

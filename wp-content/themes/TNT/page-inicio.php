@@ -154,9 +154,8 @@
                                 <div class="global__paragraph animate-on-load hidden">
 
                                 </div>
-
                                 <div class="animate-on-load hidden">
-                                    <a href="#" class="global__btn">
+                                    <a href="<?php the_field('url_boton_proyectos'); ?>" class="global__btn">
                                         <span class="global__btn-label">Conocer más</span>
                                     </a>
                                 </div>
@@ -187,7 +186,7 @@
                     </h2>
 
                     <div class="home__anticrisis-service-cta animate-on-load hidden">
-                        <a href="#" class="global__btn white open-popup">
+                        <a href="<?php the_field('url_boton_engrana'); ?>" class="global__btn white open-popup">
                             <span class="global__btn-label">¡Estoy interesado!</span>
                         </a>
                     </div>
@@ -209,13 +208,16 @@
                 <div class="col-lg-5 col-md-6 col-9 offset-sm-0 offset-1 home__expertise-header progress-line">
                     <div class="global__section-header d-flex align-items-center">
                         <div class="global__section-title">
-                            Experiencia
+                            <a href="<?php the_field('url_expericiencia_nosotros'); ?>" class="global__arrow-link">
+                                <span class="global__underline-link"> Experiencia</span>
+                            </a>
                         </div>
-
                         <div class="global__section-title-separator global__separator" data-nmb-white=""></div>
 
-                        <div class="global__section-subtitle global__label">
-                            Nuestros servicios
+                        <div class="global__section-title">
+                            <a href="<?php the_field('url_expericiencia_nuestroservicios'); ?>" class="global__arrow-link">
+                                <span class="global__underline-link"> Nuestros Servicios</span>
+                            </a>
                         </div>
                     </div>
 
@@ -244,7 +246,7 @@
                                 <div class="home__expertise-option-description global__paragraph">
                                     <?php echo $inicioGrupo['contenido_propuesta'] ?>
                                 </div>
-                                <a href="#" class="global__arrow-link">
+                                <a href="<?php echo $inicioGrupo['url_boton_propuesta'] ?>" class="global__arrow-link">
                                     <span class="global__underline-link">Conoce más</span>
                                     <img src="<?php echo get_template_directory_uri();?>/img/arrow-black.svg" alt="" class="global__arrow-link-arrow global__arrow">
                                 </a>
@@ -265,7 +267,7 @@
                                 <?php echo $inicioGrupo['contenido_valor'] ?>
                             </div>
 
-                            <a href="#" class="global__arrow-link">
+                            <a href="<?php echo $inicioGrupo['url_boton_valor'] ?>" class="global__arrow-link">
                                 <span class="global__underline-link">conoce más</span>
 
                                 <img src="<?php echo get_template_directory_uri();?>/img/arrow-black.svg" alt="" class="global__arrow-link-arrow global__arrow">
@@ -287,7 +289,7 @@
                                 <?php echo $inicioGrupo['contenido_conversion'] ?>
                             </div>
 
-                            <a href="#" class="global__arrow-link">
+                            <a href="<?php echo $inicioGrupo['url_boton_conversion'] ?>" class="global__arrow-link">
                                 <span class="global__underline-link">Conoce más</span>
                                 <img src="<?php echo get_template_directory_uri();?>/img/arrow-black.svg" alt="" class="global__arrow-link-arrow global__arrow">
                             </a>
