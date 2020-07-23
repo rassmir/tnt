@@ -1,5 +1,4 @@
 <?php get_header(); ?>
-
 <?php while (have_posts()): the_post(); ?>
     <div class="global__wrapper" data-barba="container" data-barba-namespace="data-insights">
         <div class="global__intro-wrapper text-center d-flex align-items-center hidden" data-nmb>
@@ -40,13 +39,7 @@
                                 <div class="data__options-item-title">
                                     <?php the_sub_field('slide_titulo'); ?>
                                 </div>
-
-                                <div class="data__options-item-info">
-                                    <p>
-                                    </p>
-                                </div>
                             </div>
-
                             <div class="data__options-item-btn global__btn">
                      <span class="global__btn-label">
                       Ver video
@@ -69,8 +62,8 @@
 
 
 <?php endwhile; ?>
-
 <?php get_footer(); ?>
+
 <script type="text/javascript" >
     const buttonRight = document.getElementById('slideRight');
     const buttonLeft = document.getElementById('slideLeft');

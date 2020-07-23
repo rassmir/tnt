@@ -17,6 +17,7 @@
 		register_setting('animo_opciones_grupo', 'twitter');
 		register_setting('animo_opciones_grupo', 'instagram');
 		register_setting('animo_opciones_grupo', 'youtube');
+		register_setting('animo_opciones_grupo', 'linkedin');
 		register_setting('animo_opciones_grupo', 'suscribes');
 	}
 	function tnt_opciones(){
@@ -55,6 +56,10 @@
                         <tr valign="top">
                             <th scope="row">Link Youtube</th>
                             <td><input style="width: 100%;" type="text" name="youtube" value="<?php echo get_option('youtube'); ?>"></td>
+                        </tr>
+                        <tr valign="top">
+                            <th scope="row">Link Linkedin</th>
+                            <td><input style="width: 100%;" type="text" name="linkedin" value="<?php echo get_option('linkedin'); ?>"></td>
                         </tr>
 					</table>
 					<br>

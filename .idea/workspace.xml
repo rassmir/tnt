@@ -97,7 +97,12 @@
       <workItem from="1593126136210" duration="369000" />
       <workItem from="1593159298311" duration="796000" />
       <workItem from="1593206917132" duration="17809000" />
-      <workItem from="1594067873457" duration="2754000" />
+      <workItem from="1594067873457" duration="3552000" />
+      <workItem from="1594142120559" duration="560000" />
+      <workItem from="1594349492501" duration="65000" />
+      <workItem from="1595044031188" duration="4797000" />
+      <workItem from="1595520065540" duration="831000" />
+      <workItem from="1595524175533" duration="782000" />
     </task>
     <servers />
   </component>
@@ -145,10 +150,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="411" y="155" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1593236265100" />
-    <state x="542" y="264" width="657" height="580" key="find.popup" timestamp="1593236323075">
+    <state x="542" y="264" width="657" height="580" key="find.popup" timestamp="1595048725478">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="542" y="264" width="657" height="580" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593236323075" />
+    <state x="542" y="264" width="657" height="580" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595048725478" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1590596921239">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

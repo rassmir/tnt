@@ -3,7 +3,7 @@
     .team__intro-image { background-image: url(<?php the_field('equipo_imagen_fondo'); ?>); background-size: cover; background-position: center; background-repeat: no-repeat; position: relative; padding-bottom: 40%; -webkit-transition: all 0s ease, background 0.3s ease, color 0.3s ease, opacity 1s cubic-bezier(0.645, 0.045, 0.355, 1), -webkit-transform 1s cubic-bezier(0.645, 0.045, 0.355, 1); transition: all 0s ease, background 0.3s ease, color 0.3s ease, opacity 1s cubic-bezier(0.645, 0.045, 0.355, 1), -webkit-transform 1s cubic-bezier(0.645, 0.045, 0.355, 1); -o-transition: all 0s ease, background 0.3s ease, color 0.3s ease, opacity 1s cubic-bezier(0.645, 0.045, 0.355, 1), transform 1s cubic-bezier(0.645, 0.045, 0.355, 1); transition: all 0s ease, background 0.3s ease, color 0.3s ease, opacity 1s cubic-bezier(0.645, 0.045, 0.355, 1), transform 1s cubic-bezier(0.645, 0.045, 0.355, 1); transition: all 0s ease, background 0.3s ease, color 0.3s ease, opacity 1s cubic-bezier(0.645, 0.045, 0.355, 1), transform 1s cubic-bezier(0.645, 0.045, 0.355, 1), -webkit-transform 1s cubic-bezier(0.645, 0.045, 0.355, 1); }
     .team__intro-image.hidden { opacity: 0; -webkit-transform: translateY(30px); -ms-transform: translateY(30px); transform: translateY(30px); }
 
-    .team__intro-image .team__intro-image-hover { background-image: url(<?php the_field('equipo_imagen_fondo'); ?>); background-size: cover; background-position: center; background-repeat: no-repeat; position: absolute; width: 100%; height: 100%; top: 0; left: 0; opacity: 0; -webkit-transition: opacity .2s ease; -o-transition: opacity .2s ease; transition: opacity .2s ease; }
+    .team__intro-image .team__intro-image-hover { background-image: url(<?php the_field('equipo_imagen_fondo2'); ?>); background-size: cover; background-position: center; background-repeat: no-repeat; position: absolute; width: 100%; height: 100%; top: 0; left: 0; opacity: 0; -webkit-transition: opacity .2s ease; -o-transition: opacity .2s ease; transition: opacity .2s ease; }
     .team__intro-image .team__intro-image-hover:hover { opacity: 1; }
 </style>
 <?php while (have_posts()): the_post(); ?>
@@ -137,6 +137,9 @@ background: #dcdcdc;
                             <h3 class="team__list-item-name">
                                 <?php the_sub_field('nombre_cofundadores'); ?>
                             </h3>
+                            <div class="team__director-bio global__paragraph animate-on-load hidden">
+                                <?php the_sub_field('descripcion_cofundadores'); ?>
+                            </div>
                             <a href="" class="team__list-item-mail">
                                 <?php the_sub_field('email_cofundadores'); ?>
                             </a>
@@ -148,8 +151,6 @@ background: #dcdcdc;
                 </div>
             </div>
         </div>
-
-
 
         <div class="team__beliefs-wrapper hidden" data-nmb-lighten>
             <div class="container">

@@ -44,6 +44,10 @@
                         <a href="<?php echo esc_html( get_option('youtube')); ?>" class="global__footer-follow-us-icon" target="_blank">
                             <i class="fab fa-youtube"></i>
                         </a>
+
+                        <a href="<?php echo esc_html( get_option('linkedin')); ?>" class="global__footer-follow-us-icon" target="_blank">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
                     </div>
                 </div>
             </div>
